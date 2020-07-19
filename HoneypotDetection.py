@@ -119,4 +119,6 @@ def main():
     calculate_likelihood()
     output_banner()
 
-main()
+# Call to main function
+if __name__ == "__main__":
+    main()
